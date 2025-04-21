@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Prescription Results</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f4f8fb;
+            font-family: 'Segoe UI', sans-serif;
+        }
+
+        .results-container {
+            max-width: 700px;
+            margin: 60px auto;
+            background: white;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+        }
+
+        .title {
+            text-align: center;
+            margin-bottom: 30px;
+            color: #007bff;
+            font-weight: bold;
+        }
+
+        .medicine-list li {
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+        }
+
+        .btn-custom {
+            margin-top: 30px;
+            width: 100%;
+        }
+
+        .btn-buy {
+            margin-left: 10px;
+            font-size: 0.9rem;
+        }
+
+        .no-results {
+            text-align: center;
+            font-size: 1.1rem;
+            color: #dc3545;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="results-container">
+        <h2 class="title">💊 Extracted Medicines</h2>
+        
+        {% if medicines %}
+            <ul class="list-group medicine-list">
+                {% for medicine in medicines %}
+                    <li class="list-group-item d-flex justify-content-between align-items-center">
+                        {{ medicine }}
+                        <a href="https://www.1mg.com/search/all?name={{ medicine | urlencode }}" 
+                           class="btn btn-sm btn-outline-primary btn-buy" 
+                           target="_blank">Buy Here</a>
+                    </li>
+                {% endfor %}
+            </ul>
+        {% else %}
+            <p class="no-results">No medicines found in the prescription.</p>
+        {% endif %}
+
+        <a href="{{ url_for('upload_prescription') }}" class="btn btn-secondary btn-custom">Upload Another Prescription</a>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

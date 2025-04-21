@@ -1,0 +1,501 @@
+medicine_id,medicine_name,composition,manufacturer
+1,Zolpidem,129mg,Sun Pharma Ltd.
+2,Levothyroxine,192mg,Sun Pharma Ltd.
+3,Metoprolol,297mg,Dr. Reddy Ltd.
+4,Albuterol,287mg,Dr. Reddy Ltd.
+5,Omeprazole,411mg,Zydus Ltd.
+6,Amlodipine,100mg,Lupin Ltd.
+7,Hydrochlorothiazide,283mg,Zydus Ltd.
+8,Ibuprofen,319mg,Sun Pharma Ltd.
+9,Ciprofloxacin,120mg,Lupin Ltd.
+10,Losartan,141mg,Lupin Ltd.
+11,Simvastatin,315mg,Sun Pharma Ltd.
+12,Ciprofloxacin,378mg,Cipla Ltd.
+13,Ciprofloxacin,198mg,Lupin Ltd.
+14,Zolpidem,456mg,Dr. Reddy Ltd.
+15,Sertraline,455mg,Sun Pharma Ltd.
+16,Zolpidem,442mg,Cipla Ltd.
+17,Hydrochlorothiazide,356mg,Cipla Ltd.
+18,Albuterol,348mg,Cipla Ltd.
+19,Albuterol,343mg,Sun Pharma Ltd.
+20,Ciprofloxacin,387mg,Sun Pharma Ltd.
+21,Hydrochlorothiazide,235mg,Cipla Ltd.
+22,Amlodipine,334mg,Zydus Ltd.
+23,Atorvastatin,348mg,Sun Pharma Ltd.
+24,Hydrochlorothiazide,448mg,Sun Pharma Ltd.
+25,Hydrochlorothiazide,310mg,Sun Pharma Ltd.
+26,Zolpidem,170mg,Zydus Ltd.
+27,Gabapentin,179mg,Dr. Reddy Ltd.
+28,Omeprazole,488mg,Cipla Ltd.
+29,Prednisone,186mg,Cipla Ltd.
+30,Gabapentin,395mg,Lupin Ltd.
+31,Amoxicillin,201mg,Sun Pharma Ltd.
+32,Paracetamol,177mg,Cipla Ltd.
+33,Prednisone,292mg,Lupin Ltd.
+34,Albuterol,395mg,Cipla Ltd.
+35,Metformin,330mg,Sun Pharma Ltd.
+36,Simvastatin,417mg,Zydus Ltd.
+37,Levothyroxine,402mg,Dr. Reddy Ltd.
+38,Hydrochlorothiazide,357mg,Sun Pharma Ltd.
+39,Azithromycin,347mg,Cipla Ltd.
+40,Losartan,103mg,Cipla Ltd.
+41,Metformin,162mg,Zydus Ltd.
+42,Lisinopril,427mg,Zydus Ltd.
+43,Amlodipine,445mg,Dr. Reddy Ltd.
+44,Amlodipine,338mg,Cipla Ltd.
+45,Lisinopril,190mg,Dr. Reddy Ltd.
+46,Ibuprofen,158mg,Zydus Ltd.
+47,Metformin,201mg,Lupin Ltd.
+48,Levothyroxine,405mg,Sun Pharma Ltd.
+49,Paracetamol,115mg,Zydus Ltd.
+50,Omeprazole,253mg,Lupin Ltd.
+51,Prednisone,349mg,Cipla Ltd.
+52,Ibuprofen,191mg,Dr. Reddy Ltd.
+53,Ibuprofen,136mg,Cipla Ltd.
+54,Gabapentin,363mg,Zydus Ltd.
+55,Albuterol,368mg,Zydus Ltd.
+56,Azithromycin,105mg,Dr. Reddy Ltd.
+57,Levothyroxine,468mg,Dr. Reddy Ltd.
+58,Hydrochlorothiazide,253mg,Lupin Ltd.
+59,Simvastatin,292mg,Cipla Ltd.
+60,Sertraline,311mg,Cipla Ltd.
+61,Sertraline,405mg,Lupin Ltd.
+62,Atorvastatin,470mg,Cipla Ltd.
+63,Prednisone,482mg,Zydus Ltd.
+64,Omeprazole,447mg,Zydus Ltd.
+65,Atorvastatin,123mg,Sun Pharma Ltd.
+66,Amlodipine,281mg,Cipla Ltd.
+67,Gabapentin,116mg,Cipla Ltd.
+68,Omeprazole,416mg,Cipla Ltd.
+69,Azithromycin,225mg,Sun Pharma Ltd.
+70,Levothyroxine,267mg,Lupin Ltd.
+71,Azithromycin,401mg,Sun Pharma Ltd.
+72,Atorvastatin,127mg,Dr. Reddy Ltd.
+73,Amlodipine,358mg,Lupin Ltd.
+74,Simvastatin,107mg,Dr. Reddy Ltd.
+75,Albuterol,274mg,Zydus Ltd.
+76,Amoxicillin,368mg,Dr. Reddy Ltd.
+77,Paracetamol,275mg,Sun Pharma Ltd.
+78,Ciprofloxacin,318mg,Lupin Ltd.
+79,Hydrochlorothiazide,254mg,Lupin Ltd.
+80,Amlodipine,200mg,Lupin Ltd.
+81,Ciprofloxacin,483mg,Cipla Ltd.
+82,Metoprolol,469mg,Dr. Reddy Ltd.
+83,Azithromycin,180mg,Dr. Reddy Ltd.
+84,Simvastatin,308mg,Lupin Ltd.
+85,Hydrochlorothiazide,103mg,Cipla Ltd.
+86,Paracetamol,174mg,Sun Pharma Ltd.
+87,Zolpidem,366mg,Lupin Ltd.
+88,Azithromycin,295mg,Zydus Ltd.
+89,Metoprolol,276mg,Sun Pharma Ltd.
+90,Lisinopril,405mg,Zydus Ltd.
+91,Ibuprofen,499mg,Sun Pharma Ltd.
+92,Lisinopril,229mg,Lupin Ltd.
+93,Ibuprofen,414mg,Zydus Ltd.
+94,Ciprofloxacin,449mg,Lupin Ltd.
+95,Gabapentin,366mg,Cipla Ltd.
+96,Azithromycin,146mg,Sun Pharma Ltd.
+97,Metformin,116mg,Lupin Ltd.
+98,Prednisone,422mg,Zydus Ltd.
+99,Prednisone,313mg,Sun Pharma Ltd.
+100,Albuterol,396mg,Dr. Reddy Ltd.
+101,Amlodipine,326mg,Zydus Ltd.
+102,Prednisone,361mg,Sun Pharma Ltd.
+103,Lisinopril,310mg,Sun Pharma Ltd.
+104,Levothyroxine,212mg,Lupin Ltd.
+105,Azithromycin,254mg,Lupin Ltd.
+106,Losartan,421mg,Sun Pharma Ltd.
+107,Metformin,279mg,Dr. Reddy Ltd.
+108,Levothyroxine,209mg,Sun Pharma Ltd.
+109,Metoprolol,236mg,Sun Pharma Ltd.
+110,Albuterol,335mg,Cipla Ltd.
+111,Omeprazole,184mg,Cipla Ltd.
+112,Gabapentin,167mg,Dr. Reddy Ltd.
+113,Ibuprofen,468mg,Dr. Reddy Ltd.
+114,Amoxicillin,243mg,Sun Pharma Ltd.
+115,Zolpidem,402mg,Sun Pharma Ltd.
+116,Lisinopril,251mg,Lupin Ltd.
+117,Paracetamol,478mg,Lupin Ltd.
+118,Azithromycin,117mg,Sun Pharma Ltd.
+119,Lisinopril,154mg,Sun Pharma Ltd.
+120,Zolpidem,152mg,Lupin Ltd.
+121,Omeprazole,468mg,Dr. Reddy Ltd.
+122,Losartan,475mg,Dr. Reddy Ltd.
+123,Losartan,300mg,Sun Pharma Ltd.
+124,Lisinopril,109mg,Zydus Ltd.
+125,Zolpidem,418mg,Sun Pharma Ltd.
+126,Amoxicillin,419mg,Zydus Ltd.
+127,Amoxicillin,258mg,Cipla Ltd.
+128,Gabapentin,439mg,Cipla Ltd.
+129,Atorvastatin,480mg,Cipla Ltd.
+130,Omeprazole,210mg,Zydus Ltd.
+131,Metoprolol,160mg,Lupin Ltd.
+132,Albuterol,395mg,Sun Pharma Ltd.
+133,Losartan,103mg,Cipla Ltd.
+134,Losartan,116mg,Sun Pharma Ltd.
+135,Zolpidem,126mg,Lupin Ltd.
+136,Ciprofloxacin,389mg,Lupin Ltd.
+137,Gabapentin,296mg,Lupin Ltd.
+138,Paracetamol,246mg,Sun Pharma Ltd.
+139,Gabapentin,111mg,Lupin Ltd.
+140,Ibuprofen,441mg,Sun Pharma Ltd.
+141,Gabapentin,392mg,Sun Pharma Ltd.
+142,Hydrochlorothiazide,343mg,Zydus Ltd.
+143,Amlodipine,301mg,Lupin Ltd.
+144,Paracetamol,313mg,Sun Pharma Ltd.
+145,Metoprolol,218mg,Cipla Ltd.
+146,Atorvastatin,236mg,Zydus Ltd.
+147,Azithromycin,445mg,Dr. Reddy Ltd.
+148,Gabapentin,170mg,Zydus Ltd.
+149,Ibuprofen,147mg,Cipla Ltd.
+150,Metformin,325mg,Sun Pharma Ltd.
+151,Ibuprofen,257mg,Zydus Ltd.
+152,Metformin,437mg,Lupin Ltd.
+153,Amlodipine,410mg,Sun Pharma Ltd.
+154,Metformin,325mg,Dr. Reddy Ltd.
+155,Atorvastatin,299mg,Dr. Reddy Ltd.
+156,Ibuprofen,215mg,Lupin Ltd.
+157,Albuterol,363mg,Cipla Ltd.
+158,Amlodipine,107mg,Cipla Ltd.
+159,Losartan,127mg,Cipla Ltd.
+160,Metoprolol,360mg,Dr. Reddy Ltd.
+161,Zolpidem,415mg,Sun Pharma Ltd.
+162,Losartan,224mg,Lupin Ltd.
+163,Azithromycin,393mg,Zydus Ltd.
+164,Omeprazole,138mg,Dr. Reddy Ltd.
+165,Metoprolol,203mg,Sun Pharma Ltd.
+166,Metformin,135mg,Cipla Ltd.
+167,Ibuprofen,426mg,Zydus Ltd.
+168,Lisinopril,350mg,Lupin Ltd.
+169,Metoprolol,126mg,Lupin Ltd.
+170,Atorvastatin,457mg,Cipla Ltd.
+171,Gabapentin,392mg,Dr. Reddy Ltd.
+172,Amoxicillin,294mg,Zydus Ltd.
+173,Lisinopril,297mg,Dr. Reddy Ltd.
+174,Paracetamol,387mg,Lupin Ltd.
+175,Azithromycin,356mg,Dr. Reddy Ltd.
+176,Metoprolol,464mg,Zydus Ltd.
+177,Sertraline,183mg,Dr. Reddy Ltd.
+178,Prednisone,461mg,Cipla Ltd.
+179,Metformin,201mg,Zydus Ltd.
+180,Gabapentin,359mg,Cipla Ltd.
+181,Sertraline,128mg,Dr. Reddy Ltd.
+182,Albuterol,106mg,Zydus Ltd.
+183,Amlodipine,418mg,Lupin Ltd.
+184,Ciprofloxacin,348mg,Dr. Reddy Ltd.
+185,Atorvastatin,112mg,Zydus Ltd.
+186,Amlodipine,201mg,Cipla Ltd.
+187,Simvastatin,306mg,Lupin Ltd.
+188,Prednisone,486mg,Sun Pharma Ltd.
+189,Amoxicillin,215mg,Sun Pharma Ltd.
+190,Metformin,267mg,Lupin Ltd.
+191,Amlodipine,459mg,Sun Pharma Ltd.
+192,Metformin,243mg,Cipla Ltd.
+193,Hydrochlorothiazide,211mg,Lupin Ltd.
+194,Simvastatin,235mg,Sun Pharma Ltd.
+195,Metformin,368mg,Sun Pharma Ltd.
+196,Ciprofloxacin,186mg,Dr. Reddy Ltd.
+197,Prednisone,447mg,Lupin Ltd.
+198,Paracetamol,197mg,Lupin Ltd.
+199,Prednisone,341mg,Sun Pharma Ltd.
+200,Ciprofloxacin,108mg,Cipla Ltd.
+201,Zolpidem,327mg,Lupin Ltd.
+202,Metoprolol,460mg,Zydus Ltd.
+203,Levothyroxine,240mg,Sun Pharma Ltd.
+204,Lisinopril,477mg,Zydus Ltd.
+205,Azithromycin,167mg,Lupin Ltd.
+206,Zolpidem,387mg,Sun Pharma Ltd.
+207,Zolpidem,405mg,Cipla Ltd.
+208,Levothyroxine,212mg,Zydus Ltd.
+209,Sertraline,232mg,Sun Pharma Ltd.
+210,Prednisone,183mg,Sun Pharma Ltd.
+211,Amlodipine,391mg,Dr. Reddy Ltd.
+212,Paracetamol,498mg,Sun Pharma Ltd.
+213,Azithromycin,205mg,Lupin Ltd.
+214,Azithromycin,341mg,Dr. Reddy Ltd.
+215,Lisinopril,444mg,Dr. Reddy Ltd.
+216,Levothyroxine,178mg,Sun Pharma Ltd.
+217,Hydrochlorothiazide,460mg,Dr. Reddy Ltd.
+218,Hydrochlorothiazide,235mg,Cipla Ltd.
+219,Atorvastatin,183mg,Zydus Ltd.
+220,Simvastatin,247mg,Sun Pharma Ltd.
+221,Sertraline,198mg,Cipla Ltd.
+222,Lisinopril,290mg,Sun Pharma Ltd.
+223,Atorvastatin,251mg,Lupin Ltd.
+224,Paracetamol,368mg,Cipla Ltd.
+225,Amlodipine,148mg,Sun Pharma Ltd.
+226,Levothyroxine,343mg,Zydus Ltd.
+227,Zolpidem,212mg,Dr. Reddy Ltd.
+228,Paracetamol,394mg,Dr. Reddy Ltd.
+229,Omeprazole,164mg,Zydus Ltd.
+230,Lisinopril,159mg,Cipla Ltd.
+231,Omeprazole,423mg,Lupin Ltd.
+232,Metformin,323mg,Dr. Reddy Ltd.
+233,Levothyroxine,328mg,Dr. Reddy Ltd.
+234,Amoxicillin,442mg,Dr. Reddy Ltd.
+235,Lisinopril,174mg,Cipla Ltd.
+236,Hydrochlorothiazide,426mg,Zydus Ltd.
+237,Atorvastatin,308mg,Dr. Reddy Ltd.
+238,Atorvastatin,480mg,Sun Pharma Ltd.
+239,Simvastatin,229mg,Lupin Ltd.
+240,Azithromycin,375mg,Dr. Reddy Ltd.
+241,Zolpidem,291mg,Zydus Ltd.
+242,Metformin,345mg,Cipla Ltd.
+243,Ciprofloxacin,358mg,Zydus Ltd.
+244,Ciprofloxacin,376mg,Lupin Ltd.
+245,Ibuprofen,467mg,Cipla Ltd.
+246,Paracetamol,109mg,Cipla Ltd.
+247,Hydrochlorothiazide,137mg,Lupin Ltd.
+248,Simvastatin,176mg,Lupin Ltd.
+249,Levothyroxine,471mg,Sun Pharma Ltd.
+250,Simvastatin,145mg,Dr. Reddy Ltd.
+251,Azithromycin,131mg,Lupin Ltd.
+252,Paracetamol,354mg,Lupin Ltd.
+253,Amoxicillin,319mg,Dr. Reddy Ltd.
+254,Amlodipine,102mg,Lupin Ltd.
+255,Gabapentin,371mg,Lupin Ltd.
+256,Ibuprofen,461mg,Zydus Ltd.
+257,Amlodipine,403mg,Lupin Ltd.
+258,Simvastatin,421mg,Sun Pharma Ltd.
+259,Sertraline,177mg,Cipla Ltd.
+260,Gabapentin,435mg,Sun Pharma Ltd.
+261,Azithromycin,470mg,Lupin Ltd.
+262,Lisinopril,390mg,Lupin Ltd.
+263,Amlodipine,453mg,Dr. Reddy Ltd.
+264,Prednisone,108mg,Zydus Ltd.
+265,Azithromycin,352mg,Zydus Ltd.
+266,Losartan,213mg,Lupin Ltd.
+267,Gabapentin,353mg,Sun Pharma Ltd.
+268,Metformin,385mg,Cipla Ltd.
+269,Azithromycin,425mg,Zydus Ltd.
+270,Ibuprofen,471mg,Lupin Ltd.
+271,Metoprolol,258mg,Zydus Ltd.
+272,Azithromycin,340mg,Zydus Ltd.
+273,Prednisone,120mg,Sun Pharma Ltd.
+274,Lisinopril,408mg,Dr. Reddy Ltd.
+275,Metformin,257mg,Cipla Ltd.
+276,Sertraline,329mg,Dr. Reddy Ltd.
+277,Prednisone,301mg,Zydus Ltd.
+278,Metformin,430mg,Cipla Ltd.
+279,Amlodipine,492mg,Lupin Ltd.
+280,Ibuprofen,211mg,Dr. Reddy Ltd.
+281,Ciprofloxacin,464mg,Cipla Ltd.
+282,Azithromycin,382mg,Dr. Reddy Ltd.
+283,Losartan,498mg,Zydus Ltd.
+284,Paracetamol,122mg,Sun Pharma Ltd.
+285,Sertraline,157mg,Sun Pharma Ltd.
+286,Zolpidem,211mg,Zydus Ltd.
+287,Hydrochlorothiazide,325mg,Cipla Ltd.
+288,Sertraline,208mg,Zydus Ltd.
+289,Metoprolol,364mg,Zydus Ltd.
+290,Amlodipine,292mg,Lupin Ltd.
+291,Amlodipine,311mg,Sun Pharma Ltd.
+292,Levothyroxine,283mg,Cipla Ltd.
+293,Gabapentin,137mg,Zydus Ltd.
+294,Albuterol,127mg,Lupin Ltd.
+295,Metoprolol,186mg,Dr. Reddy Ltd.
+296,Amoxicillin,271mg,Lupin Ltd.
+297,Ibuprofen,329mg,Lupin Ltd.
+298,Ibuprofen,440mg,Lupin Ltd.
+299,Amoxicillin,323mg,Sun Pharma Ltd.
+300,Atorvastatin,162mg,Cipla Ltd.
+301,Azithromycin,326mg,Dr. Reddy Ltd.
+302,Metformin,357mg,Zydus Ltd.
+303,Metformin,230mg,Lupin Ltd.
+304,Hydrochlorothiazide,221mg,Cipla Ltd.
+305,Ciprofloxacin,216mg,Lupin Ltd.
+306,Simvastatin,307mg,Zydus Ltd.
+307,Simvastatin,233mg,Sun Pharma Ltd.
+308,Amlodipine,455mg,Cipla Ltd.
+309,Lisinopril,154mg,Sun Pharma Ltd.
+310,Atorvastatin,185mg,Dr. Reddy Ltd.
+311,Ciprofloxacin,147mg,Dr. Reddy Ltd.
+312,Prednisone,378mg,Dr. Reddy Ltd.
+313,Zolpidem,480mg,Dr. Reddy Ltd.
+314,Lisinopril,209mg,Cipla Ltd.
+315,Hydrochlorothiazide,107mg,Zydus Ltd.
+316,Zolpidem,350mg,Sun Pharma Ltd.
+317,Hydrochlorothiazide,393mg,Zydus Ltd.
+318,Azithromycin,443mg,Cipla Ltd.
+319,Sertraline,355mg,Cipla Ltd.
+320,Simvastatin,197mg,Cipla Ltd.
+321,Ciprofloxacin,372mg,Zydus Ltd.
+322,Ibuprofen,119mg,Cipla Ltd.
+323,Losartan,293mg,Cipla Ltd.
+324,Simvastatin,344mg,Cipla Ltd.
+325,Atorvastatin,346mg,Dr. Reddy Ltd.
+326,Lisinopril,262mg,Sun Pharma Ltd.
+327,Metoprolol,373mg,Dr. Reddy Ltd.
+328,Zolpidem,180mg,Lupin Ltd.
+329,Omeprazole,198mg,Sun Pharma Ltd.
+330,Ibuprofen,239mg,Cipla Ltd.
+331,Simvastatin,109mg,Cipla Ltd.
+332,Simvastatin,346mg,Cipla Ltd.
+333,Atorvastatin,455mg,Dr. Reddy Ltd.
+334,Ciprofloxacin,394mg,Dr. Reddy Ltd.
+335,Simvastatin,284mg,Sun Pharma Ltd.
+336,Amoxicillin,445mg,Lupin Ltd.
+337,Simvastatin,220mg,Lupin Ltd.
+338,Atorvastatin,361mg,Cipla Ltd.
+339,Prednisone,218mg,Sun Pharma Ltd.
+340,Losartan,486mg,Dr. Reddy Ltd.
+341,Zolpidem,326mg,Cipla Ltd.
+342,Sertraline,245mg,Sun Pharma Ltd.
+343,Metoprolol,460mg,Dr. Reddy Ltd.
+344,Simvastatin,424mg,Sun Pharma Ltd.
+345,Azithromycin,441mg,Lupin Ltd.
+346,Albuterol,326mg,Cipla Ltd.
+347,Ciprofloxacin,163mg,Cipla Ltd.
+348,Amlodipine,250mg,Cipla Ltd.
+349,Amoxicillin,351mg,Cipla Ltd.
+350,Amoxicillin,477mg,Dr. Reddy Ltd.
+351,Gabapentin,229mg,Zydus Ltd.
+352,Atorvastatin,434mg,Cipla Ltd.
+353,Ibuprofen,330mg,Zydus Ltd.
+354,Metoprolol,422mg,Lupin Ltd.
+355,Albuterol,166mg,Cipla Ltd.
+356,Sertraline,332mg,Sun Pharma Ltd.
+357,Albuterol,205mg,Cipla Ltd.
+358,Atorvastatin,454mg,Zydus Ltd.
+359,Ciprofloxacin,493mg,Lupin Ltd.
+360,Amoxicillin,289mg,Sun Pharma Ltd.
+361,Metformin,381mg,Zydus Ltd.
+362,Paracetamol,340mg,Cipla Ltd.
+363,Amlodipine,129mg,Lupin Ltd.
+364,Omeprazole,337mg,Zydus Ltd.
+365,Sertraline,418mg,Cipla Ltd.
+366,Zolpidem,176mg,Dr. Reddy Ltd.
+367,Amlodipine,447mg,Sun Pharma Ltd.
+368,Ibuprofen,357mg,Cipla Ltd.
+369,Ciprofloxacin,411mg,Cipla Ltd.
+370,Gabapentin,423mg,Lupin Ltd.
+371,Gabapentin,412mg,Lupin Ltd.
+372,Sertraline,219mg,Dr. Reddy Ltd.
+373,Hydrochlorothiazide,293mg,Cipla Ltd.
+374,Metformin,147mg,Zydus Ltd.
+375,Hydrochlorothiazide,452mg,Cipla Ltd.
+376,Omeprazole,198mg,Zydus Ltd.
+377,Simvastatin,175mg,Dr. Reddy Ltd.
+378,Paracetamol,162mg,Dr. Reddy Ltd.
+379,Zolpidem,418mg,Zydus Ltd.
+380,Losartan,325mg,Sun Pharma Ltd.
+381,Amlodipine,444mg,Zydus Ltd.
+382,Sertraline,301mg,Dr. Reddy Ltd.
+383,Gabapentin,454mg,Lupin Ltd.
+384,Levothyroxine,180mg,Cipla Ltd.
+385,Simvastatin,498mg,Sun Pharma Ltd.
+386,Paracetamol,108mg,Dr. Reddy Ltd.
+387,Hydrochlorothiazide,191mg,Lupin Ltd.
+388,Metformin,191mg,Lupin Ltd.
+389,Ibuprofen,185mg,Dr. Reddy Ltd.
+390,Paracetamol,421mg,Sun Pharma Ltd.
+391,Gabapentin,495mg,Cipla Ltd.
+392,Albuterol,474mg,Zydus Ltd.
+393,Sertraline,384mg,Lupin Ltd.
+394,Zolpidem,390mg,Zydus Ltd.
+395,Simvastatin,108mg,Zydus Ltd.
+396,Sertraline,145mg,Sun Pharma Ltd.
+397,Atorvastatin,290mg,Zydus Ltd.
+398,Atorvastatin,209mg,Lupin Ltd.
+399,Zolpidem,216mg,Cipla Ltd.
+400,Lisinopril,403mg,Lupin Ltd.
+401,Lisinopril,337mg,Sun Pharma Ltd.
+402,Albuterol,299mg,Cipla Ltd.
+403,Ibuprofen,108mg,Cipla Ltd.
+404,Sertraline,494mg,Dr. Reddy Ltd.
+405,Zolpidem,374mg,Cipla Ltd.
+406,Lisinopril,313mg,Sun Pharma Ltd.
+407,Gabapentin,328mg,Dr. Reddy Ltd.
+408,Ciprofloxacin,339mg,Sun Pharma Ltd.
+409,Paracetamol,364mg,Sun Pharma Ltd.
+410,Amlodipine,174mg,Sun Pharma Ltd.
+411,Albuterol,283mg,Cipla Ltd.
+412,Amlodipine,221mg,Dr. Reddy Ltd.
+413,Gabapentin,169mg,Lupin Ltd.
+414,Ciprofloxacin,222mg,Cipla Ltd.
+415,Levothyroxine,384mg,Sun Pharma Ltd.
+416,Metoprolol,279mg,Dr. Reddy Ltd.
+417,Azithromycin,315mg,Sun Pharma Ltd.
+418,Paracetamol,408mg,Zydus Ltd.
+419,Azithromycin,301mg,Dr. Reddy Ltd.
+420,Albuterol,251mg,Zydus Ltd.
+421,Amlodipine,238mg,Zydus Ltd.
+422,Hydrochlorothiazide,308mg,Cipla Ltd.
+423,Omeprazole,490mg,Lupin Ltd.
+424,Ibuprofen,245mg,Cipla Ltd.
+425,Zolpidem,409mg,Zydus Ltd.
+426,Zolpidem,304mg,Lupin Ltd.
+427,Omeprazole,169mg,Lupin Ltd.
+428,Gabapentin,258mg,Zydus Ltd.
+429,Simvastatin,222mg,Zydus Ltd.
+430,Ibuprofen,250mg,Cipla Ltd.
+431,Omeprazole,407mg,Sun Pharma Ltd.
+432,Prednisone,151mg,Zydus Ltd.
+433,Metformin,154mg,Cipla Ltd.
+434,Lisinopril,454mg,Dr. Reddy Ltd.
+435,Lisinopril,324mg,Lupin Ltd.
+436,Albuterol,169mg,Sun Pharma Ltd.
+437,Gabapentin,267mg,Lupin Ltd.
+438,Paracetamol,290mg,Zydus Ltd.
+439,Prednisone,154mg,Sun Pharma Ltd.
+440,Gabapentin,405mg,Cipla Ltd.
+441,Amlodipine,433mg,Cipla Ltd.
+442,Gabapentin,288mg,Zydus Ltd.
+443,Simvastatin,286mg,Cipla Ltd.
+444,Amlodipine,254mg,Cipla Ltd.
+445,Ibuprofen,186mg,Zydus Ltd.
+446,Hydrochlorothiazide,257mg,Sun Pharma Ltd.
+447,Lisinopril,199mg,Sun Pharma Ltd.
+448,Omeprazole,280mg,Zydus Ltd.
+449,Sertraline,283mg,Dr. Reddy Ltd.
+450,Albuterol,458mg,Sun Pharma Ltd.
+451,Gabapentin,339mg,Cipla Ltd.
+452,Lisinopril,252mg,Lupin Ltd.
+453,Lisinopril,443mg,Cipla Ltd.
+454,Levothyroxine,353mg,Lupin Ltd.
+455,Albuterol,201mg,Sun Pharma Ltd.
+456,Amoxicillin,394mg,Dr. Reddy Ltd.
+457,Amoxicillin,116mg,Cipla Ltd.
+458,Azithromycin,493mg,Dr. Reddy Ltd.
+459,Metformin,441mg,Cipla Ltd.
+460,Simvastatin,444mg,Lupin Ltd.
+461,Paracetamol,143mg,Dr. Reddy Ltd.
+462,Hydrochlorothiazide,465mg,Sun Pharma Ltd.
+463,Lisinopril,224mg,Cipla Ltd.
+464,Azithromycin,231mg,Zydus Ltd.
+465,Amoxicillin,452mg,Dr. Reddy Ltd.
+466,Omeprazole,207mg,Cipla Ltd.
+467,Sertraline,166mg,Dr. Reddy Ltd.
+468,Omeprazole,362mg,Sun Pharma Ltd.
+469,Gabapentin,441mg,Dr. Reddy Ltd.
+470,Atorvastatin,189mg,Lupin Ltd.
+471,Hydrochlorothiazide,145mg,Dr. Reddy Ltd.
+472,Albuterol,446mg,Dr. Reddy Ltd.
+473,Simvastatin,240mg,Zydus Ltd.
+474,Paracetamol,321mg,Cipla Ltd.
+475,Hydrochlorothiazide,236mg,Sun Pharma Ltd.
+476,Ciprofloxacin,116mg,Lupin Ltd.
+477,Amoxicillin,280mg,Lupin Ltd.
+478,Losartan,293mg,Cipla Ltd.
+479,Atorvastatin,369mg,Dr. Reddy Ltd.
+480,Levothyroxine,431mg,Zydus Ltd.
+481,Omeprazole,349mg,Cipla Ltd.
+482,Sertraline,409mg,Dr. Reddy Ltd.
+483,Ciprofloxacin,147mg,Lupin Ltd.
+484,Metformin,365mg,Cipla Ltd.
+485,Amlodipine,273mg,Sun Pharma Ltd.
+486,Amlodipine,325mg,Sun Pharma Ltd.
+487,Hydrochlorothiazide,381mg,Dr. Reddy Ltd.
+488,Levothyroxine,256mg,Lupin Ltd.
+489,Lisinopril,324mg,Zydus Ltd.
+490,Simvastatin,252mg,Dr. Reddy Ltd.
+491,Azithromycin,221mg,Lupin Ltd.
+492,Gabapentin,124mg,Sun Pharma Ltd.
+493,Amoxicillin,251mg,Zydus Ltd.
+494,Prednisone,461mg,Cipla Ltd.
+495,Sertraline,263mg,Cipla Ltd.
+496,Ciprofloxacin,490mg,Lupin Ltd.
+497,Hydrochlorothiazide,280mg,Zydus Ltd.
+498,Paracetamol,369mg,Zydus Ltd.
+499,Azithromycin,229mg,Zydus Ltd.
+500,Ibuprofen,327mg,Cipla Ltd.

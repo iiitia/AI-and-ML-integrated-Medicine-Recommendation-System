@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Prediction History</title>
+</head>
+<body>
+    <h2>Prediction History for {{ current_user.id }}</h2>
+    {% if history %}
+        <ul>
+            {% for entry in history %}
+                <li>
+                    <strong>Symptoms:</strong> {{ entry.symptoms }}<br>
+                    <strong>Predicted Disease:</strong> {{ entry.disease }}
+                </li>
+            {% endfor %}
+        </ul>
+    {% else %}
+        <p>No predictions made yet.</p>
+    {% endif %}
+    <a href="{{ url_for('dashboard') }}">← Back to Dashboard</a>
+</body>
+</html>
