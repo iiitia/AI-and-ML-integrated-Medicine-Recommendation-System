@@ -1,0 +1,9 @@
+flask
+flask-login
+pandas
+numpy
+scikit-learn
+pillow
+pytesseract
+pdf2image
+gunicorn
