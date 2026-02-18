@@ -50,12 +50,13 @@ user_history = {}
 
 svc = pickle.load(open('svc.pkl', 'rb'))
 
-sym_des = pd.read_csv("dataset/symtoms_df.csv")
-precautions = pd.read_csv("dataset/precautions_df.csv")
-workout = pd.read_csv("dataset/workout_df.csv")
-description = pd.read_csv("dataset/description.csv")
-medications = pd.read_csv('dataset/medications.csv')
-diets = pd.read_csv("dataset/diets.csv")
+pd.read_csv("symtoms_df.csv")
+pd.read_csv("precautions_df.csv")
+pd.read_csv("workout_df.csv")
+pd.read_csv("description.csv")
+pd.read_csv("medications.csv")
+pd.read_csv("diets.csv")
+
 
 
 # load model===========================================
@@ -257,6 +258,7 @@ def history():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=int(os.environ.get("PORT", 5000)))
+
 
 
 
