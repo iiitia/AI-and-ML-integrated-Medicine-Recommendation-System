@@ -1,9 +1,15 @@
 flask
 flask-login
+gunicorn
+
 pandas
 numpy
 scikit-learn
+
 pillow
-pytesseract
-pdf2image
-gunicorn
+
+# OCR (cloud-based recommended)
+google-cloud-vision
+
+# environment variables
+python-dotenv
